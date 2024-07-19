@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "71319818699",
+    "project_id": "hruyan-smart-agriculture",
+    "storage_bucket": "hruyan-smart-agriculture.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:71319818699:android:ed5f854712e8a4747ea64e",
+        "android_client_info": {
+          "package_name": "com.example.myapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCZ8zkj2kdWjGAYp4PCcy10sYW38hPxmYM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
