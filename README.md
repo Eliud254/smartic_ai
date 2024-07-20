@@ -1,4 +1,4 @@
-# AgriTech - Revolutionary Mobile App for Agriculture
+# Smart Agriculture - Revolutionary Mobile App for Agriculture
 
 ## Objective
 
